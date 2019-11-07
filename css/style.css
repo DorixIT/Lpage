@@ -1,9 +1,9 @@
 /*
 * Template Name: Webiz
-
-* Description: Webiz Digital Agency - Responsive Bootstrap Template
-
-
+* Template URI: 
+* Description: Dorix Digital Agency - Responsive Bootstrap Template
+* Author: 
+* Author URI: 
 */
 *{margin: 0;padding: 0;}
 body{font-family: sans-serif;background-color: #888;-webkit-font-smoothing: antialiased;}
@@ -85,13 +85,16 @@ body{font-family: sans-serif;background-color: #888;-webkit-font-smoothing: anti
   display: inline-block;
 }
 .footer-box .form-control{box-shadow: none !important; border: none; border-radius: 0; margin: 20px 0;}
-.footer-box .btn-primary{
-  box-shadow: none !important;
-  width: 8rem;
-  border: none; border-radius: 50px;
-  background: linear-gradient(to right, #1723b1,#58f0ff);
-  color: #fff;transition: transform 1.2s;
-}
+    .footer-box .btn-primary {
+        box-shadow: none !important;
+        width: 8rem;
+        border: none;
+        border-radius: 50px;
+        background: linear-gradient(to right, #1723b1,#58f0ff);
+        color: #fff;
+        transition: transform 1.2s;
+       
+    }
 .footer-box .btn-primary:hover{transform: scale(1.2); color: #fff;}
 /*-------- Social Media icons ---------- */
 #social p{font-weight: 600; font-size: 16px; margin-top: 20px;}
